@@ -2,7 +2,7 @@ package com.example.week2;
 
 import androidx.appcompat.app.AppCompatActivity;
 import sg.edu.np.mad.madpractical3.R;
-import com.example.week2.User;
+import sg.edu.np.mad.madpractical3.User;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
